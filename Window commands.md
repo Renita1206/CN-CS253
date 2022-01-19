@@ -2,3 +2,6 @@
 - hostname - display name of host system
 - ping - to check if system can connect to other system in network
 - tracert - displays route or hops btw source and destination
+- netstat - displays active connections with address, protocol and status
+- nslookup
+- net
